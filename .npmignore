@@ -1,0 +1,6 @@
+*.ts
+!*.d.ts
+
+.venv
+cdk.out
+node_modules
